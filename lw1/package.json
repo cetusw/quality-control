@@ -1,0 +1,18 @@
+{
+  "name": "lw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "triangle.js",
+  "dependencies": {
+    "undici-types": "^8.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
