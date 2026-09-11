@@ -1,0 +1,23 @@
+{
+  "auth": {
+    "login": "test_test123",
+    "password": "12345Qw!",
+    "successMessage": "Вы успешно авторизованы"
+  },
+  "product": {
+    "searchQuery": "Eldors",
+    "expectedName": "Eldors Post"
+  },
+  "cart": {
+    "productName": "Casio MRP-700-1AVEF",
+    "productSlug": "casio-mrp-700-1avef",
+    "expectedQuantity": 1
+  },
+  "checkout": {
+    "name": "Тест",
+    "email": "test@example.test",
+    "address": "Test, Test Street 1",
+    "note": "Тестовый заказ",
+    "successMessage": "Спасибо за Ваш заказ. В ближайшее время с Вами свяжется менеджер для согласования заказа"
+  }
+}
