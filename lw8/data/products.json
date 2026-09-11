@@ -1,0 +1,35 @@
+{
+  "validProduct": {
+    "category_id": 1,
+    "title": "Product",
+    "content": "Test content",
+    "price": 100,
+    "old_price": 120,
+    "status": 1,
+    "keywords": "qa,test",
+    "description": "API test product",
+    "hit": 0
+  },
+  "editedProduct": {
+    "category_id": 14,
+    "title": "Edited_Product",
+    "content": "Edited test content",
+    "price": 250,
+    "old_price": 300,
+    "status": 1,
+    "keywords": "qa,edited",
+    "description": "Edited API test product",
+    "hit": 1
+  },
+  "boundaryProduct": {
+    "category_id": 14,
+    "title": "Boundary_Product",
+    "content": "",
+    "price": 0,
+    "old_price": 0,
+    "status": 1,
+    "keywords": "",
+    "description": "",
+    "hit": 1
+  }
+}
